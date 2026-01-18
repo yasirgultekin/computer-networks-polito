@@ -1,4 +1,3 @@
----
 
 # Chapter 1 - Network Fundamentals
 
@@ -1504,7 +1503,9 @@
    B) Algoritmi, servizi, temporizzazioni
    C) Algoritmi, formati, entita
 
----
+
+___
+
 
 # Chapter 2 - Protocol Architectures (OSI and TCP/IP)
 
@@ -3123,7 +3124,9 @@
    B) un servizio affidabile, orientato alla connessione
    C) un servizio non affidabile, orientato alla connessione
 
----
+
+___
+
 
 # Chapter 3 - Window Protocols (Flow Control and Error Control)
 
@@ -3317,7 +3320,9 @@
    B) utilizza il campo di indirizzo nelle unita dati per distinguere comandi da risposte
    C) utilizza un protocollo a finestra di tipo go-back-n per il recupero di perdite di unita dati
 
----
+
+___
+
 
 # Chapter 4 - Physical Layer
 
@@ -3516,7 +3521,9 @@
    B) Codifica 64B66B
    C) Codifica 8B10B
 
----
+
+___
+
 
 # Chapter 5 - Data Link Layer
 
@@ -3636,7 +3643,9 @@
    B) utilizza la tecnica di bit-stuffing per garantire la trasparenza dei dati
    C) utilizza la tecnica di byte-stuffing per garantire la trasparenza dei dati
 
----
+
+___
+
 
 # Chapter 6 - LANs and Multiple Access Protocols
 
@@ -3821,7 +3830,9 @@
    B) Nello standard commerciale Ethernet (protocollo di accesso CSMA/CD), si e definita una dimensione minima di pacchetto per garantire una corretta identificazione delle collisioni
    C) Nello standard commerciale Ethernet (protocollo di accesso CSMA/CD), si e definita una dimensione minima di pacchetto per garantire prestazioni migliori, in termini di traffico smaltito, al protocollo di accesso rispetto a quelle che si avrebbero con un pacchetto di dimensione massima
 
----
+
+___
+
 
 # Chapter 7 - Standard LAN (Ethernet and WiFi - IEEE 802)
 
@@ -4372,7 +4383,9 @@
    C) tutti i pacchetti, indipendentemente dallindirizzo di destinazione
    D) solo i pacchetti con indirizzo MAC di destinazione unicast pari a quello dello switch
 
----
+
+___
+
 
 # Chapter 8 - Routing and Network Layer
 

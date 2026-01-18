@@ -1818,7 +1818,8 @@ B) Algoritmi, servizi, temporizzazioni
 C) Algoritmi, formati, entit?  
 
 ---
-<a id="chapter-2"></a>## Chapter 2 - Protocol Architectures (OSI and TCP/IP)
+<a id="chapter-2"></a>
+## Chapter 2 - Protocol Architectures (OSI and TCP/IP)
 
 ### 1. The protocol for sending mail in the Internet is (**B**).
 A) FTP  

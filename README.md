@@ -73,42 +73,42 @@ fully aligned with the **lecture slide order**.
 - 📖 **Chapter 1 – Network Fundamentals**  
   ⭐ *High priority – almost always present in exams*  
   📝 *Mostly theory + definitions*  
-  👉 [Go to Chapter 1](./past-exams-chapters/index.md#chapter-1)
+  👉 [Open Chapter 1 Questions](./past-exams-chapters/PastExamsChapter1.md)
 
 - 🧱 **Chapter 2 – Protocol Architectures (OSI and TCP/IP)**  
   ⭐⭐ *Very high priority – written & oral exams*  
   🗣️ *Classic oral questions (OSI vs TCP/IP)*  
-  👉 [Go to Chapter 2](./past-exams-chapters/index.md#chapter-2)
+  👉 [Open Chapter 2 Questions](./past-exams-chapters/PastExamsChapter2.md)
 
 - 🔁 **Chapter 3 – Window Protocols (Flow Control and Error Control)**  
   ⭐⭐ *Core exam chapter*  
   ✍️ *Exercises + reasoning questions*  
-  👉 [Go to Chapter 3](./past-exams-chapters/index.md#chapter-3)
+  👉 [Open Chapter 3 Questions](./past-exams-chapters/PastExamsChapter3.md)
 
 - ⚡ **Chapter 4 – Physical Layer**  
   ⭐ *Medium priority*  
   🧮 *Definitions, media, transmission concepts*  
-  👉 [Go to Chapter 4](./past-exams-chapters/index.md#chapter-4)
+  👉 [Open Chapter 4 Questions](./past-exams-chapters/PastExamsChapter4.md)
 
 - 🔗 **Chapter 5 – Data Link Layer**  
   ⭐⭐ *Very frequent in exams*  
   ✍️ *Frames, ARQ, CRC, protocols*  
-  👉 [Go to Chapter 5](./past-exams-chapters/index.md#chapter-5)
+  👉 [Open Chapter 5 Questions](./past-exams-chapters/PastExamsChapter5.md)
 
 - 🖧 **Chapter 6 – LANs and Multiple Access Protocols**  
   ⭐⭐ *High priority*  
   🗣️ *CSMA/CD, ALOHA, collisions*  
-  👉 [Go to Chapter 6](./past-exams-chapters/index.md#chapter-6)
+  👉 [Open Chapter 6 Questions](./past-exams-chapters/PastExamsChapter6.md)
 
 - 📡 **Chapter 7 – Standard LAN (Ethernet & WiFi – IEEE 802)**  
   ⭐ *Medium–high priority*  
   🧠 *Ethernet, switches, WiFi basics*  
-  👉 [Go to Chapter 7](./past-exams-chapters/index.md#chapter-7)
+  👉 [Open Chapter 7 Questions](./past-exams-chapters/PastExamsChapter7.md)
 
 - 🧭 **Chapter 8 – Routing and Network Layer**  
   ⭐⭐ *Very high priority*  
   🗺️ *Routing, IP, subnetting, NAT*  
-  👉 [Go to Chapter 8](./past-exams-chapters/index.md#chapter-8)
+  👉 [Open Chapter 8 Questions](./past-exams-chapters/PastExamsChapter8.md)
 
 
 

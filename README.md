@@ -73,42 +73,42 @@ fully aligned with the **lecture slide order**.
 - 📖 **Chapter 1 – Network Fundamentals**  
   ⭐ *High priority – almost always present in exams*  
   📝 *Mostly theory + definitions*  
-  👉 [Go to Chapter 1](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-1)
+  👉 [Go to Chapter 1](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-1)
 
 - 🧱 **Chapter 2 – Protocol Architectures (OSI and TCP/IP)**  
   ⭐⭐ *Very high priority – written & oral exams*  
   🗣️ *Classic oral questions (OSI vs TCP/IP)*  
-  👉 [Go to Chapter 2](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-2)
+  👉 [Go to Chapter 2](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-2)
 
 - 🔁 **Chapter 3 – Window Protocols (Flow Control and Error Control)**  
   ⭐⭐ *Core exam chapter*  
   ✍️ *Exercises + reasoning questions*  
-  👉 [Go to Chapter 3](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-3)
+  👉 [Go to Chapter 3](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-3)
 
 - ⚡ **Chapter 4 – Physical Layer**  
   ⭐ *Medium priority*  
   🧮 *Definitions, media, transmission concepts*  
-  👉 [Go to Chapter 4](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-4)
+  👉 [Go to Chapter 4](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-4)
 
 - 🔗 **Chapter 5 – Data Link Layer**  
   ⭐⭐ *Very frequent in exams*  
   ✍️ *Frames, ARQ, CRC, protocols*  
-  👉 [Go to Chapter 5](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-5)
+  👉 [Go to Chapter 5](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-5)
 
 - 🖧 **Chapter 6 – LANs and Multiple Access Protocols**  
   ⭐⭐ *High priority*  
   🗣️ *CSMA/CD, ALOHA, collisions*  
-  👉 [Go to Chapter 6](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-6)
+  👉 [Go to Chapter 6](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-6)
 
 - 📡 **Chapter 7 – Standard LAN (Ethernet & WiFi – IEEE 802)**  
   ⭐ *Medium–high priority*  
   🧠 *Ethernet, switches, WiFi basics*  
-  👉 [Go to Chapter 7](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-7)
+  👉 [Go to Chapter 7](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-7)
 
 - 🧭 **Chapter 8 – Routing and Network Layer**  
   ⭐⭐ *Very high priority*  
   🗺️ *Routing, IP, subnetting, NAT*  
-  👉 [Go to Chapter 8](https://github.com/yasirgultekin/computer-networks/blob/master/past-exams-chapters/PastExamsByChapter.md#chapter-8)
+  👉 [Go to Chapter 8](https://github.com/yasirgultekin/computer-networks/blob/main/past-exams-chapters/PastExamsByChapter.md#chapter-8)
 
 
 ### 🔥 Legend

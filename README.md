@@ -60,6 +60,7 @@ All study notes are located in the `study-guide/` directory.
 
 ### Second Part 🚧: 
 🚧 Currently in progress. Content will be added soon following the lecture slide order.
+
 ---
 
 ## 📚 Past Exam Questions – Chapters
@@ -68,9 +69,6 @@ All study notes are located in the `study-guide/` directory.
 fully aligned with the **lecture slide order**.
 
 ➡️ Click on a chapter to **jump directly** to its past exam questions.
-
----
-## 📚 Past Exam Questions – Chapters
 
 - 📖 **Chapter 1 – Network Fundamentals**  
   ⭐ *High priority – almost always present in exams*  
@@ -82,7 +80,7 @@ fully aligned with the **lecture slide order**.
   🗣️ *Classic oral questions (OSI vs TCP/IP)*  
   👉 [Go to Chapter 2](past-exams-chapters/PastExamsByChapter.md#chapter-2--protocol-architectures-osi-and-tcpip)
 
-- 🔁 **Chapter 3 – Window Protocols (Flow Control & Error Control)**  
+- 🔁 **Chapter 3 – Window Protocols (Flow Control and Error Control)**  
   ⭐⭐ *Core exam chapter*  
   ✍️ *Exercises + reasoning questions*  
   👉 [Go to Chapter 3](past-exams-chapters/PastExamsByChapter.md#chapter-3--window-protocols-flow-control-and-error-control)
@@ -102,7 +100,7 @@ fully aligned with the **lecture slide order**.
   🗣️ *CSMA/CD, ALOHA, collisions*  
   👉 [Go to Chapter 6](past-exams-chapters/PastExamsByChapter.md#chapter-6--lans-and-multiple-access-protocols)
 
-- 📡 **Chapter 7 – Standard LAN (Ethernet & WiFi – IEEE 802)**  
+- 📡 **Chapter 7 – Standard LAN (Ethernet and WiFi - IEEE 802)**  
   ⭐ *Medium–high priority*  
   🧠 *Ethernet, switches, WiFi basics*  
   👉 [Go to Chapter 7](past-exams-chapters/PastExamsByChapter.md#chapter-7--standard-lan-ethernet-and-wifi---ieee-802)

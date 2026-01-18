@@ -1,3 +1,4 @@
+<a id="chapter-1"></a>
 ## Chapter 1 - Network Fundamentals
 
 ### 3. Early computer networks were composed of (**D**) systems.
@@ -1817,7 +1818,7 @@ B) Algoritmi, servizi, temporizzazioni
 C) Algoritmi, formati, entit?  
 
 ---
-
+<a id="chapter-2"></a>
 ## Chapter 2 - Protocol Architectures (OSI and TCP/IP)
 
 ### 1. The protocol for sending mail in the Internet is (**B**).
@@ -3614,7 +3615,7 @@ B) un servizio affidabile, orientato alla connessione
 C) un servizio non affidabile, orientato alla connessione  
 
 ---
-
+<a id="chapter-3"></a>
 ## Chapter 3 - Window Protocols (Flow Control and Error Control)
 
 ### 76. When network security is breached, corresponding action plans are usually taken. If illegal intruders
@@ -3834,7 +3835,7 @@ B) utilizza il campo di indirizzo nelle unita? dati per distinguere comandi da r
 C) utilizza un protocollo a finestra di tipo go-back-n per il recupero di perdite di unita? dati  
 
 ---
-
+<a id="chapter-4"></a>
 ## Chapter 4 - Physical Layer
 
 ### 6. According to the electrical index of EIA RS232
@@ -4056,7 +4057,7 @@ B) Codifica 64B66B
 C) Codifica 8B10B  
 
 ---
-
+<a id="chapter-5"></a>
 ## Chapter 5 - Data Link Layer
 
 ### 63. The Internet adopts the most popular (**B**) mode in the distributed network at present, which greatly
@@ -4194,7 +4195,7 @@ B) utilizza la tecnica di bit-stuffing per garantire la trasparenza dei dati
 C) utilizza la tecnica di byte-stuffing per garantire la trasparenza dei dati  
 
 ---
-
+<a id="chapter-6"></a>
 ## Chapter 6 - LANs and Multiple Access Protocols
 
 ### 60. In the IEEE802 standard, the CSMA/CD access control method and physical layer technical
@@ -4391,7 +4392,7 @@ B) Nello standard commerciale Ethernet (protocollo di accesso CSMA/CD), si ? def
 C) Nello standard commerciale Ethernet (protocollo di accesso CSMA/CD), si ? definita una  
 
 ---
-
+<a id="chapter-7"></a>
 ## Chapter 7 - Standard LAN (Ethernet and WiFi - IEEE 802)
 
 ### 4. Ethernet with transmission rate (**B**) is called traditional Ethernet
@@ -4979,7 +4980,7 @@ C) tutti i pacchetti, indipendentemente dall'indirizzo di destinazione
 D) solo i pacchetti con indirizzo MAC di destinazione unicast pari a quello dello switch  
 
 ---
-
+<a id="chapter-8"></a>
 ## Chapter 8 - Routing and Network Layer
 
 ### 11. Among the following devices, the one that can isolate the broadcast storm is (**D**).

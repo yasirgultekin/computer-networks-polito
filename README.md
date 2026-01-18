@@ -62,6 +62,65 @@ All study notes are located in the `study-guide/` directory.
 🚧 Currently in progress. Content will be added soon following the lecture slide order.
 ---
 
+## 📚 Past Exam Questions – Chapters
+
+🧠 All past exam questions are collected in a single file and organized **by chapter**,  
+fully aligned with the **lecture slide order**.
+
+➡️ Click on a chapter to **jump directly** to its past exam questions.
+
+---
+## 📚 Past Exam Questions – Chapters
+
+- 📖 **Chapter 1 – Network Fundamentals**  
+  ⭐ *High priority – almost always present in exams*  
+  📝 *Mostly theory + definitions*  
+  👉 [Go to Chapter 1](past-exams-chapters/PastExamsByChapter.md#chapter-1--network-fundamentals)
+
+- 🧱 **Chapter 2 – Protocol Architectures (OSI and TCP/IP)**  
+  ⭐⭐ *Very high priority – written & oral exams*  
+  🗣️ *Classic oral questions (OSI vs TCP/IP)*  
+  👉 [Go to Chapter 2](past-exams-chapters/PastExamsByChapter.md#chapter-2--protocol-architectures-osi-and-tcpip)
+
+- 🔁 **Chapter 3 – Window Protocols (Flow Control & Error Control)**  
+  ⭐⭐ *Core exam chapter*  
+  ✍️ *Exercises + reasoning questions*  
+  👉 [Go to Chapter 3](past-exams-chapters/PastExamsByChapter.md#chapter-3--window-protocols-flow-control-and-error-control)
+
+- ⚡ **Chapter 4 – Physical Layer**  
+  ⭐ *Medium priority*  
+  🧮 *Definitions, media, transmission concepts*  
+  👉 [Go to Chapter 4](past-exams-chapters/PastExamsByChapter.md#chapter-4--physical-layer)
+
+- 🔗 **Chapter 5 – Data Link Layer**  
+  ⭐⭐ *Very frequent in exams*  
+  ✍️ *Frames, ARQ, CRC, protocols*  
+  👉 [Go to Chapter 5](past-exams-chapters/PastExamsByChapter.md#chapter-5--data-link-layer)
+
+- 🖧 **Chapter 6 – LANs and Multiple Access Protocols**  
+  ⭐⭐ *High priority*  
+  🗣️ *CSMA/CD, ALOHA, collisions*  
+  👉 [Go to Chapter 6](past-exams-chapters/PastExamsByChapter.md#chapter-6--lans-and-multiple-access-protocols)
+
+- 📡 **Chapter 7 – Standard LAN (Ethernet & WiFi – IEEE 802)**  
+  ⭐ *Medium–high priority*  
+  🧠 *Ethernet, switches, WiFi basics*  
+  👉 [Go to Chapter 7](past-exams-chapters/PastExamsByChapter.md#chapter-7--standard-lan-ethernet-and-wifi---ieee-802)
+
+- 🧭 **Chapter 8 – Routing and Network Layer**  
+  ⭐⭐ *Very high priority*  
+  🗺️ *Routing, IP, subnetting, NAT*  
+  👉 [Go to Chapter 8](past-exams-chapters/PastExamsByChapter.md#chapter-8--routing-and-network-layer)
+
+
+### 🔥 Legend
+- ⭐⭐ = **Very high exam priority**
+- ⭐ = **High / medium exam priority**
+- 🗣️ = Common **oral exam** topic
+- ✍️ = Frequent **written / exercise** questions
+
+---
+
 ## ⚠️ Disclaimer
 These notes are for **personal study purposes only** and are **not official course material**.  
 They are intended to support exam preparation and do **not** replace lectures or official slides.

@@ -1,4 +1,4 @@
-# YYGW
+# YYG
 ## WAS
 ### HERE
 

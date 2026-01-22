@@ -58,9 +58,14 @@ All study notes are located in the `study-guide/` directory.
 - **Chapter 8 – Routing**  
   [Chapter8_Routing_Study_Guide.md](study-guide/Chapter8_Routing_Study_Guide.md)
 
-### Second Part 🚧: 
-🚧 Currently in progress. Content will be added soon following the lecture slide order.
+### 📑 Second Part : 
+- **Second Part Summary English Version**  
+  [Summary2ndPartEN.md](study-guide/secondPart/Summary2ndPartEN.md)
+  
+- **Second Part Summary Turkish Version**  
+  [Summary2ndPartEN.md](study-guide/secondPart/Summary2ndPartTR.md)
 
+  
 ---
 
 ## 📚 Past Exam Questions – Chapters
